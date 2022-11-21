@@ -24,7 +24,7 @@ ezmailer --help
 
 ## TODO
 
-[ ] Config file load
-[ ] Template support
-[ ] Unit testing
-[ ] Support for more providers
+- [ ] Config file load
+- [ ] Template support
+- [ ] Unit testing
+- [ ] Support for more providers
